@@ -3,6 +3,12 @@
 ## Overview
 
 This project is a web application built with a **Java Spring Boot** backend and a **React** frontend using **Vite**. The application includes user authentication with JWT, role-based access control, and supports functionalities such as user profile management and project creation by managers.
+## Demonstration
+
+
+https://github.com/user-attachments/assets/9319fd34-30af-4021-b2e1-d38051dd9d38
+
+
 
 ## Features
 
